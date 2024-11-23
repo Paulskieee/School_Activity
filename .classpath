@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="lecture-03-setting-up-dev-environment/jdbc-test/src"/>
+	<classpathentry kind="src" path="lecture-04-submitting-sql-queries/jdbc-query/src"/>
+	<classpathentry kind="src" path="lecture-05-inserting-data/jdbc-insert/src"/>
+	<classpathentry kind="src" path="lecture-06-updating-data/jdbc-update/src"/>
+	<classpathentry kind="src" path="lecture-07-deleting-data/jdbc-delete/src"/>
+	<classpathentry kind="src" path="lecture-08-prepared-statements/jdbc-prepared-statements-tutorial/src"/>
+	<classpathentry kind="src" path="lecture-09-stored-procedures-part-1/jdbc-stored-procedures-tutorial/src"/>
+	<classpathentry kind="src" path="lecture-10-stored-procedures-part-2/jdbc-stored-procedures-tutorial/src"/>
+	<classpathentry kind="src" path="lecture-11-stored-procedures-part-3/jdbc-stored-procedures-tutorial/src"/>
+	<classpathentry kind="src" path="lecture-12-stored-procedures-part-4/jdbc-stored-procedures-tutorial/src"/>
+	<classpathentry kind="src" path="lecture-13-jdbc-transactions/jdbc-transactions/src"/>
+	<classpathentry kind="src" path="lecture-14-database-metadata/jdbc-database-metadata/src"/>
+	<classpathentry kind="src" path="lecture-15-resultset-metadata/jdbc-resultset-metadata/src"/>
+	<classpathentry kind="src" path="lecture-16-blobs/jdbc-blob/src"/>
+	<classpathentry kind="src" path="lecture-17-clobs/jdbc-clob/src"/>
+	<classpathentry kind="src" path="lecture-18-database-configuration-properties-file/jdbc-properties-file/src"/>
+	<classpathentry kind="lib" path="lecture-03-setting-up-dev-environment/jdbc-test/mysql-connector-java-5.1.33-bin.jar"/>
+	<classpathentry kind="lib" path="lecture-04-submitting-sql-queries/jdbc-query/lib/mysql-connector-java-5.1.29-bin.jar"/>
+	<classpathentry kind="lib" path="lecture-05-inserting-data/jdbc-insert/lib/mysql-connector-java-5.1.29-bin.jar"/>
+	<classpathentry kind="lib" path="lecture-06-updating-data/jdbc-update/lib/mysql-connector-java-5.1.29-bin.jar"/>
+	<classpathentry kind="lib" path="lecture-07-deleting-data/jdbc-delete/lib/mysql-connector-java-5.1.29-bin.jar"/>
+	<classpathentry kind="lib" path="lecture-08-prepared-statements/jdbc-prepared-statements-tutorial/lib/mysql-connector-java-5.1.29-bin.jar"/>
+	<classpathentry kind="lib" path="lecture-09-stored-procedures-part-1/jdbc-stored-procedures-tutorial/lib/mysql-connector-java-5.1.29-bin.jar"/>
+	<classpathentry kind="lib" path="lecture-10-stored-procedures-part-2/jdbc-stored-procedures-tutorial/lib/mysql-connector-java-5.1.29-bin.jar"/>
+	<classpathentry kind="lib" path="lecture-11-stored-procedures-part-3/jdbc-stored-procedures-tutorial/lib/mysql-connector-java-5.1.29-bin.jar"/>
+	<classpathentry kind="lib" path="lecture-12-stored-procedures-part-4/jdbc-stored-procedures-tutorial/lib/mysql-connector-java-5.1.29-bin.jar"/>
+	<classpathentry kind="lib" path="lecture-13-jdbc-transactions/jdbc-transactions/lib/mysql-connector-java-5.1.29-bin.jar"/>
+	<classpathentry kind="lib" path="lecture-14-database-metadata/jdbc-database-metadata/lib/mysql-connector-java-5.1.29-bin.jar"/>
+	<classpathentry kind="lib" path="lecture-15-resultset-metadata/jdbc-resultset-metadata/lib/mysql-connector-java-5.1.29-bin.jar"/>
+	<classpathentry kind="lib" path="lecture-16-blobs/jdbc-blob/lib/mysql-connector-java-5.1.29-bin.jar"/>
+	<classpathentry kind="lib" path="lecture-17-clobs/jdbc-clob/lib/mysql-connector-java-5.1.29-bin.jar"/>
+	<classpathentry kind="lib" path="lecture-18-database-configuration-properties-file/jdbc-properties-file/lib/mysql-connector-java-5.1.29-bin.jar"/>
+	<classpathentry kind="output" path="lecture-03-setting-up-dev-environment/jdbc-test/bin"/>
+</classpath>
